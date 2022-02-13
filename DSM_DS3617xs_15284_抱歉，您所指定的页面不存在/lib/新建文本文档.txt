@@ -1,0 +1,6 @@
+https://blog.pulnd.com/2020/06/19/nas-defunct-trouble/
+
+
+chmod 644 /lib/libsynopkg.so.1
+chmod 644 /lib/libsynoshare.so.6
+chmod 644 /lib/libsynostoragemgmt.so
